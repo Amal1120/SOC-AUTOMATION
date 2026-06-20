@@ -89,6 +89,14 @@ SQLite  →  Streamlit Dashboard
 - Real-time incidents, risk scores, alert history, the approval queue, and incident reporting
 
 ---
+<img width="1081" height="610" alt="Screenshot 2026-06-20 170353" src="https://github.com/user-attachments/assets/74ddf6a7-1c53-4b64-afc3-b60605d72540" />
+<img width="1112" height="617" alt="Screenshot 2026-06-20 171104" src="https://github.com/user-attachments/assets/9709764e-8e79-4602-a29d-42029bb8a72c" />
+<img width="1206" height="608" alt="Screenshot 2026-06-20 171334" src="https://github.com/user-attachments/assets/dffa6d16-684c-4c44-a2d7-794bb4380b35" />
+<img width="1092" height="611" alt="Screenshot 2026-06-20 171423" src="https://github.com/user-attachments/assets/cc7eeaa9-61e8-40c7-a6ad-03a12c0ac641" />
+
+<img width="1087" height="603" alt="Screenshot 2026-06-20 171448" src="https://github.com/user-attachments/assets/4c9dc46c-4fdf-49d0-a43a-338f74d56f21" />
+<img width="1421" height="637" alt="Screenshot 2026-06-20 171549" src="https://github.com/user-attachments/assets/be66b14c-7518-464f-ae62-ba3718eb6f6d" />
+
 
 ## Skills Demonstrated
 
