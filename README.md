@@ -12,7 +12,7 @@ I designed and built the automated response core of this SOC homelab as part of 
 
 ## My Contributions
 
-This was a four-person team project. Here's an honest breakdown of what I personally designed and built, versus work done by teammates — included so the README accurately reflects individual ownership.
+This was a four-person team project. Here's the breakdown of what I personally designed and built, versus work done by teammates — included so the README accurately reflects individual ownership.
 
 **Designed and implemented by me** (Python implementation built with AI-assisted development; design, integration, testing, and debugging done by me):
 - Wazuh deployment and Manager/Agent integration
