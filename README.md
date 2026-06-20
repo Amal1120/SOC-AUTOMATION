@@ -193,4 +193,5 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Contact
 
-*(add your link here)*
+amaldileef25@gmail.com
+www.linkedin.com/in/amal-dileef
